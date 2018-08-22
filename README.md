@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+This is my test repository and this is a random sentence.
